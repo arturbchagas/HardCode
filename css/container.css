@@ -1,0 +1,53 @@
+
+.container {
+    background-color:  #121212;
+    padding: 1.5rem 1.25rem 0 1.25rem ;
+}
+.cabecalho{
+    display: flex;
+   
+}
+.cabecalho button {
+    margin-left: auto;
+}
+
+.cabecalho .menu {
+    font-size: 2.5rem;
+    color: #E73634;
+}
+
+.container h1 {
+    font-family:'Montserrat', sans-serif;
+    font-weight: 900;
+    margin: 4rem 0 1rem 0;
+
+    font-size: 1.5rem;
+    color: #ffff;
+}
+
+.container .palavra-destaque {
+    color: #E73634;
+}
+
+.container h2 {
+    font-family:'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+    color: #ffff;
+    margin-bottom: 15rem;
+}
+.container .saiba-mais {
+    display: flex;
+}
+.saiba-mais p {
+    font-family:'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 1.15rem;
+    color: #ffff;
+    padding: 0.5rem 0.5rem 0 0.5rem;
+}
+.arrow {
+    padding: 0.25rem 0 0 0;
+    color: #E73634;
+}
+
