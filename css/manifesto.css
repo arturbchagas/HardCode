@@ -1,0 +1,22 @@
+.manifesto {
+    padding:4rem 1.25rem 0 1.25rem ;
+    background: #E73634;
+
+}
+.jobs {
+    width: 100%;
+}
+
+.manifesto h1{
+    font-family:'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 1.6rem;
+    color: #ffff;
+    margin-bottom: 1.5rem;
+}
+.manifesto p{
+    font-family:'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+    color: #ffff;
+}
