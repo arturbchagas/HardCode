@@ -1,5 +1,5 @@
 .manifesto {
-    padding:4rem 1.25rem 0 1.25rem ;
+    padding:4rem 1.25rem 6rem 1.25rem ;
     background: #E73634;
 
 }
@@ -14,9 +14,19 @@
     color: #ffff;
     margin-bottom: 1.5rem;
 }
-.manifesto p{
+.manifesto-texto{
     font-family:'Montserrat', sans-serif;
-    font-weight: 700;
+    font-weight: 400;
     font-size: 1rem;
-    color: #ffff;
+    color: #ffffff;
+}
+.manifesto-texto strong{
+    font-weight: 700;
+}
+
+.destaque-palavra {
+    color: black;
+    font-family: 'Montserrat', sans-serif; ;
+    font-size:1rem ;
+    font-weight: 900;
 }
